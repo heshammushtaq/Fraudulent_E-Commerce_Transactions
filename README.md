@@ -1,6 +1,6 @@
 ## Overview
 
-This project analyzes a synthetic dataset of e-commerce transactions to explore how fraudulent behavior can be identified using data patterns.
+This project analyzes a dataset of e-commerce transactions to explore how fraudulent behavior can be identified using data patterns.
 It includes:
 
 1. Exploratory Data Analysis (EDA)
